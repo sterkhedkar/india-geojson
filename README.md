@@ -12,3 +12,5 @@ Sourced from the internet for a personal use.
 `https://github.com/ngageoint/geopackage-js/tree/master/converters/geojson`
 
 
+### Readymade GeoJSON dumps
+`http://download.geonames.org/export/dump/`
