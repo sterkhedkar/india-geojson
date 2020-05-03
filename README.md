@@ -3,6 +3,7 @@ Sourced from the internet for a personal use.
 
 ### Download GeoPackage from: GADM or any other website
 `https://gadm.org/data.html`
+`https://indiamaps.gov.in/soiapp/`
 
 ### Convert GeoPackage to GeoJSON features using a convertor.
 #### Portal
